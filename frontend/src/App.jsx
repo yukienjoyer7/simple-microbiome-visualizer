@@ -34,7 +34,7 @@ function App() {
         
         {/* Header Title */}
         <div>
-          <h1 className="text-3xl font-bold text-gray-900">Microbiome Beta Diversity</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Simple Microbiome Visualizer</h1>
           <p className="text-gray-500 mt-1">Platform Eksplorasi PCoA, PCA, dan t-SNE</p>
         </div>
 
